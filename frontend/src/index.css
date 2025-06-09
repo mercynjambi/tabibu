@@ -14,4 +14,8 @@
   font-family: Playfair !important;
 }
 
+.active hr{
+    @apply block
+}
+
 
